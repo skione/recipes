@@ -1,4 +1,4 @@
-h1. Recipes
+Recipes
 
 No Software, we are just trading recipes here
 
