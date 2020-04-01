@@ -2,6 +2,8 @@
 
 ## Keith Ratner
 
+![Linguine and Clam Sauce](https://github.com/kratner/food-recipes/blob/master/recipes/images/keith-ratner-clam-sauce-05.png?raw=true "Linguine and Clam Sauce")
+
 This recipe ultimately calls for clam meat. This can be sourced from fresh clams, but it's much less labor-intensive to get pre-packaged clam meat. Most recently, I discovered a local Vietnamese supermarket which has everything: pre-packaged frozen clam meat as well as fresh clams.
 
 - 1-2 lbs. Fresh Clams (optional)
@@ -56,12 +58,20 @@ Continue stirring.
 
 TASTE THE SAUCE. Adjust the flavoring accordingly. If you feel it needs some salt, add the sea salt now. Keep simmering.
 
+![Clam Sauce](https://github.com/kratner/food-recipes/blob/master/recipes/images/keith-ratner-clam-sauce-01.png?raw=true "Clam Sauce")
+
 The pasta should be ready. DO NOT DRAIN THE PASTA. Using tongs, pull the pasta out and add to the sauce.
 
 Gently stir the pasta and clam sauce while continuing to simmer. Toss the pasta until it is evenly coated. Simmer for an additional minute.
 
+![Clam Sauce with Pasta](https://github.com/kratner/food-recipes/blob/master/recipes/images/keith-ratner-clam-sauce-02.png?raw=true "Clam Sauce with Pasta")
+
 Serve immediately. Optionally, top with shredded parmesan/asiago/romano cheese, but consider that the sauce should be naturally flavorful, even if you haven't added salt. The clam juice is saltwater. The cheese will add more saltiness.
+
+![Clam Sauce with Pasta Serving](https://github.com/kratner/food-recipes/blob/master/recipes/images/keith-ratner-clam-sauce-03.png?raw=true "Clam Sauce with Pasta Serving")
 
 If you steamed fresh clams, place some shelled clams around the plate. It's all in the presentation.
 
 ENJOY!
+
+![Clam Sauce with Pasta Serving](https://github.com/kratner/food-recipes/blob/master/recipes/images/keith-ratner-clam-sauce-04.png?raw=true "Clam Sauce with Pasta Serving")
