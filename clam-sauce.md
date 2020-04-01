@@ -2,8 +2,6 @@
 
 ## Keith Ratner
 
-![Linguine and Clam Sauce](images/keith-ratner-clam-sauce-05.png "Linguine and Clam Sauce")
-
 This recipe ultimately calls for clam meat. This can be sourced from fresh clams, but it's much less labor-intensive to get pre-packaged clam meat. Most recently, I discovered a local Vietnamese supermarket which has everything: pre-packaged frozen clam meat as well as fresh clams.
 
 - 1-2 lbs. Fresh Clams (optional)
